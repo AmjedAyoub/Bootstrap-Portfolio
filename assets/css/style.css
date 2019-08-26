@@ -43,8 +43,8 @@ form {
     padding: 20px;
 }
 img{
-    width: 400px;
-    height: 300px;
+    width: 350px;
+    height: 250px;
 }
 
 /* ############     classes      #############  */
@@ -96,7 +96,7 @@ img{
 }
 
 .text {
-    width: 400px;
+    width: 350px;
     padding: 5px;
     background-color: #cccccc8e;
     margin-top: 10px;
@@ -107,7 +107,7 @@ img{
     position: relative;
     bottom: 110px;
     box-sizing: border-box;
-    width: 400px;
+    width: 350px;
     text-align: center;
     color: #ffffff;
 }
@@ -147,7 +147,7 @@ img{
     border-bottom: 1px solid #cccccc; 
 }
 #text{
-    width: 400px;
+    width: 350px;
     height: 120px;
     padding: 5px;
     background-color: #cccccc8e;
