@@ -1,0 +1,175 @@
+
+/*
+font-family: 'Courgette', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Tangerine', cursive;
+*/
+
+
+/* ############     Elements      #############  */
+
+nav {
+    z-index: 9;
+}
+header {
+    border-bottom: 2px solid #752b0d;
+}
+body {
+    margin: 0%;
+    background-color: rgb(15, 16, 17);
+    /* <img alt="CU Shot of white smoke " class="gallery-asset__thumb gallery-mosaic-asset__thumb" src="https://media.gettyimages.com/videos/shot-of-white-smoke-video-id179623581?s=640x640"> */
+    /* background-image: url(https://encrypted-tbn0.gstatic.cohttps://media.gettyimages.com/videos/shot-of-white-smoke-video-id179623581?s=640x640); */
+    /* background-clip: border-box; */
+    background-size: 100% 100%;
+}
+main {
+    margin-bottom: 200px;
+}
+footer {
+    color: #ffffff;
+    border-top: 5px solid #752b0d;
+    background-color: #666666;
+    position: fixed;
+    bottom:0;
+    margin-bottom: 0%;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+}
+form {
+    padding: 20px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+
+/* ############     classes      #############  */
+
+.container {
+    margin-top: 30px;
+    z-index: 9;
+    background-color: #7e5e5ed8;
+    color: #ffffff;
+    border: 1px solid #dddddd;
+}
+.sub {
+    padding: 20px;
+    color:  #088a83;
+    border-bottom: 1px solid #cccccc;
+    font-family: 'Monoton', cursive;
+}
+.fa {
+  padding: 10px;
+  font-size: 24px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: rgb(1, 4, 8);
+  color: white;
+}
+
+.fa-twitter {
+  background: rgb(56, 60, 63);
+  color: white;
+}
+
+.fa-google {
+  background: #424141;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #262727;
+  color: white;
+}
+
+.text {
+    width: 400px;
+    padding: 5px;
+    background-color: #cccccc8e;
+    margin-top: 10px;
+}
+.textpic {
+    padding: 20px;
+    background-color: #4aaa75b0;
+    position: relative;
+    bottom: 110px;
+    box-sizing: border-box;
+    width: 400px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* ############     Ids      #############  */
+
+#myVideo {
+    position: fixed;
+    z-index: -1;
+    /* right: 100px; */
+    top: 0;
+    /* left: 100px; */
+    /* margin-top: 10%; */
+    min-width: 100%; 
+    Min-height: 110%;
+}
+#pic {
+    width: 220px;
+    height: 220px;
+}
+#start {
+    text-align: start;
+    text-anchor: middle;
+    padding-top: 10px;
+}
+#end {
+    text-align: end;
+    text-anchor: middle;
+}
+#mainsub {
+    font-family: 'Tangerine', cursive;
+    font-size: 34pt;
+}
+#h1{ 
+    padding: 20px;
+    color:  #0ea59d;
+    border-bottom: 1px solid #cccccc; 
+}
+#text{
+    width: 400px;
+    height: 120px;
+    padding: 5px;
+    background-color: #cccccc8e;
+    margin-top: 10px;
+}
+#submit {
+    background-color: #107eb18e;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border-radius: 25%;
+    margin-top: 10px;
+}
+#r1 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#r2 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#r3 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
