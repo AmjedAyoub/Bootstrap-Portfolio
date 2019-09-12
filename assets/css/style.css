@@ -1,4 +1,3 @@
-
 /*
 font-family: 'Courgette', cursive;
 font-family: 'Satisfy', cursive;
@@ -13,9 +12,11 @@ font-family: 'Tangerine', cursive;
 nav {
     z-index: 9;
 }
+
 header {
     border-bottom: 2px solid #752b0d;
 }
+
 body {
     margin: 0%;
     background-color: rgb(15, 16, 17);
@@ -24,29 +25,35 @@ body {
     /* background-clip: border-box; */
     background-size: 100% 100%;
 }
+
 main {
     margin-bottom: 200px;
 }
+
 footer {
     color: #ffffff;
     border-top: 5px solid #752b0d;
     background-color: #666666;
     position: fixed;
-    bottom:0;
+    bottom: 0;
     margin-bottom: 0%;
     width: 100%;
 }
+
 a {
     text-decoration: none;
 }
+
 form {
     padding: 20px;
 }
-img{
+
+img {
     width: 100%;
     height: 250px;
 }
-h5{
+
+h5 {
     padding: 20px;
     color: #cf4c18;
 }
@@ -61,19 +68,21 @@ h5{
     color: #ffffff;
     border: 1px solid #dddddd;
 }
+
 .sub {
     padding: 20px;
-    color:  #088a83;
+    color: #088a83;
     border-bottom: 1px solid #cccccc;
     font-family: 'Monoton', cursive;
 }
+
 .fa {
-  padding: 10px;
-  font-size: 24px;
-  width: 40px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 5px;
+    padding: 10px;
+    font-size: 24px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
 }
 
 .fa:hover {
@@ -81,23 +90,23 @@ h5{
 }
 
 .fa-facebook {
-  background: rgb(1, 4, 8);
-  color: white;
+    background: rgb(1, 4, 8);
+    color: white;
 }
 
 .fa-twitter {
-  background: rgb(56, 60, 63);
-  color: white;
+    background: rgb(56, 60, 63);
+    color: white;
 }
 
 .fa-google {
-  background: #424141;
-  color: white;
+    background: #424141;
+    color: white;
 }
 
 .fa-linkedin {
-  background: #262727;
-  color: white;
+    background: #262727;
+    color: white;
 }
 
 .text {
@@ -106,6 +115,7 @@ h5{
     background-color: #cccccc8e;
     margin-top: 10px;
 }
+
 .textpic {
     padding: 20px;
     background-color: #4aaa75b0;
@@ -116,7 +126,8 @@ h5{
     text-align: center;
     color: #ffffff;
 }
-.gamebtn{
+
+.gamebtn {
     color: #cf4c18;
 }
 
@@ -130,38 +141,45 @@ h5{
     top: 0;
     /* left: 100px; */
     /* margin-top: 10%; */
-    min-width: 100%; 
+    min-width: 100%;
     Min-height: 110%;
 }
+
 #pic {
     width: 220px;
     height: 220px;
 }
+
 #start {
     text-align: start;
     text-anchor: middle;
     padding-top: 10px;
 }
+
 #end {
     text-align: end;
     text-anchor: middle;
 }
+
 #mainsub {
     font-family: 'Tangerine', cursive;
     font-size: 34pt;
 }
-#h1{ 
+
+#h1 {
     padding: 20px;
-    color:  #0ea59d;
-    border-bottom: 1px solid #cccccc; 
+    color: #0ea59d;
+    border-bottom: 1px solid #cccccc;
 }
-#text{
+
+#text {
     width: 100%;
     height: 120px;
     padding: 5px;
     background-color: #cccccc8e;
     margin-top: 10px;
 }
+
 #submit {
     background-color: #107eb18e;
     color: #ffffff;
@@ -170,14 +188,17 @@ h5{
     border-radius: 25%;
     margin-top: 10px;
 }
+
 #r1 {
     margin-top: 10px;
     /* margin-left: 10px; */
 }
+
 #r2 {
     margin-top: 10px;
     /* margin-left: 10px; */
 }
+
 #r3 {
     margin-top: 10px;
     /* margin-left: 10px; */
